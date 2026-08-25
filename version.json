@@ -1,4 +1,7 @@
 {
-  "version": "2.6.1.1",
-  "url": "https://github.com/HaPhuVinh/BearingEnhancer-Releases/releases/download/v2.6.1.1/BearingEnhancerCAN_2.6.1.1.zip"
+  "appVersion": "2.6.1.1",
+  "appUrl": "https://github.com/HaPhuVinh/BearingEnhancer-Releases/releases/download/v2.6.1.1/BearingEnhancerCAN_2.6.1.1.zip",
+
+  "updaterVersion": "1.0.0",
+  "updaterUrl": "https://github.com/HaPhuVinh/BearingEnhancer-Releases/releases/download/v2.6.1.1/FormUpdater.zip"
 }
