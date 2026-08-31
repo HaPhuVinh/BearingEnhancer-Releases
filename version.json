@@ -3,7 +3,7 @@
   "appUrl": "https://github.com/HaPhuVinh/BearingEnhancer-Releases/releases/download/v2.6.1.1/BearingEnhancerCAN_2.6.1.1.zip",
   "appSha256": "BB33DE1BF9233809D99B66B085E6AF90AD7F64671195BBA6FE05CC4BF8BF8842",
 
-  "updaterVersion": "1.0.0.1",
+  "updaterVersion": "1.0.0.0",
   "updaterUrl": "https://github.com/HaPhuVinh/BearingEnhancer-Releases/releases/download/v2.6.1.1/FormUpdater.zip",
   "updaterSha256": "55F6E4D2ABAFA2D40CFB169C2937C31519440E5107FEE493D6F04BA4D3CB1D27"
 }
